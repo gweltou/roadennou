@@ -2,7 +2,7 @@
 
 This repository contains open data utilized in the training process of Anaouder's speech-to-text model. The sharing of this data has been authorized by its respective authors, with a preference for permissive licenses whenever possible.
 
-Each sub-directory contains segmented audio files, and the corresponding the segment text is available in the `metadata.tsv` file.
+Each sub-directory contains segmented audio files, and the corresponding segment text is available in the `metadata.tsv` file.
 
 The transcription may contain special tokens, such as `<C'HOARZH>`, `<PASAAT>`, `<SONEREZH>`...
 
