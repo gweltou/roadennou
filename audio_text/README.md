@@ -12,6 +12,6 @@ Each sub-directory contains segmented audio files, and the corresponding the seg
 | [Brendan-Budok_Durand-Le-Ludec](Brendan-Budok_Durand-Le-Ludec) | Chess Youtube channel | https://www.youtube.com/watch?v=5K0nWjc7XZ4 | Bredan Budok Durand Le Ludec | [CC-BY](https://creativecommons.org/licenses/by/4.0/) |
 
 
-Should you be the proprietor of any of the data and wish for its removal from this dataset and/or Anaouder's training data, kindly notify me.
+Should you be the owner of any of the data and wish for its removal from this dataset and/or Anaouder's training data, kindly notify me.
 
 If you are interested in contributing to this dataset by providing your own data to improve breton open speech-to-text technologies, feel free to get in touch !
