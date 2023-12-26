@@ -4,6 +4,8 @@ This repository contains open data utilized in the training process of Anaouder'
 
 Each sub-directory contains segmented audio files, and the corresponding the segment text is available in the `metadata.tsv` file.
 
+The transcription may contain special tokens, such as `<C'HOARZH>`, `<PASAAT>`, `<SONEREZH>`...
+
 ## Data directories
 
 | Directory | Type | Source | Author(s) | Licence |
