@@ -8,11 +8,11 @@ The transcription may contain special tokens, such as `<C'HOARZH>`, `<PASAAT>`, 
 
 ## Data directories
 
-| Directory | Type | Source | Author(s) | Licence |
+| Directory | Type | Source | Author(s) | Licence | Duration |
 | ---- | ---- | ---- | ---- | ---- |
-| [Becedia_Komzoù-brezhoneg](Becedia_Komzoù-brezhoneg) | Interviews | www.bcd.bzh/becedia/fr/catherine-quiniou-tine-plounevez-du-faou<br>www.bcd.bzh/becedia/fr/suzanne-goarnisson-scrignac | Lors Jouin, Francis Favereau | [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
-| [Brendan-Budok_Durand-Le-Ludec](Brendan-Budok_Durand-Le-Ludec) | Chess Youtube channel | www.youtube.com/watch?v=5K0nWjc7XZ4 | Bredan-Budok Durand-Le Ludec, Manon Jouitteau, YF Le Gall, Mélanie Jouitteau | [CC BY](https://creativecommons.org/licenses/by/4.0/) |
-| [Neus_Ket_Deus_Archoazh](Neus_Ket_Deus_Archoazh) | Documentary | www.youtube.com/watch?v=ixAnomWd1YU | Laors Skavenneg, Korin ar Mero | [CC BY](https://creativecommons.org/licenses/by/4.0/) |
+| [Becedia_Komzoù-brezhoneg](Becedia_Komzoù-brezhoneg) | Interviews | www.bcd.bzh/becedia/fr/catherine-quiniou-tine-plounevez-du-faou<br>www.bcd.bzh/becedia/fr/suzanne-goarnisson-scrignac | Lors Jouin, Francis Favereau | [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) | 9mn 17s |
+| [Brendan-Budok_Durand-Le-Ludec](Brendan-Budok_Durand-Le-Ludec) | Chess Youtube channel | www.youtube.com/watch?v=5K0nWjc7XZ4 | Bredan-Budok Durand-Le Ludec, Manon Jouitteau, YF Le Gall, Mélanie Jouitteau | [CC BY](https://creativecommons.org/licenses/by/4.0/) | 5mn 30s |
+| [Neus_Ket_Deus_Archoazh](Neus_Ket_Deus_Archoazh) | Documentary | www.youtube.com/watch?v=ixAnomWd1YU | Laors Skavenneg, Korin ar Mero | [CC BY](https://creativecommons.org/licenses/by/4.0/) | 26mn 5s |
 
 Should you be the owner of any of the data and wish for its removal from this dataset and/or Anaouder's training data, kindly notify me.
 
