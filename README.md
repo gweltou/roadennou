@@ -6,7 +6,7 @@ Should you be the owner of any of the data and wish for its removal from this da
 
 If you are interested in contributing to this dataset by providing your own data to improve breton open speech-to-text technologies, feel free to get in touch !
 
-## :microphone: Voice with Transcriptions « Mouezhioù »
+## :microphone: Voices with transcriptions « Mouezhioù »
 
 Each sub-directory contains segmented audio files, and the corresponding segment text is available in the `audio_text/metadata.tsv` file.
 
