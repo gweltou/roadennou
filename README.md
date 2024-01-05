@@ -1,6 +1,6 @@
 # Breton ASR open data
 
-This repository contains open data used in the training process of Anaouder's speech-to-text model. The sharing of this data has been authorized by its respective authors, with a preference for permissive licenses whenever possible.
+This repository contains open data indended for Natural Language Processing research and application. The sharing of this data has been authorized by its respective authors, with a preference for permissive licenses whenever possible.
 
 Should you be the owner of any of the data and wish for its removal from this dataset and/or Anaouder's training data, kindly notify me.
 
