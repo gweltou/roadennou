@@ -1,6 +1,6 @@
 # Breton ASR open data
 
-This repository contains open data indended for Natural Language Processing research and applications. The sharing of this data has been authorized by its respective authors, with a preference for permissive licenses whenever possible.
+This repository contains open data indended for Natural Language Processing research and applications. The sharing of this data has been authorized by their respective authors, with a preference for permissive licenses whenever possible.
 
 Should you be the owner of any of the data and wish for its removal from this dataset and/or Anaouder's training data, kindly notify me.
 
@@ -11,6 +11,19 @@ If you are interested in contributing to this dataset by providing your own data
 Each sub-directory contains segmented audio files, and the corresponding segment text is available in the `audio_text/metadata.tsv` file.
 
 The transcription may contain special tokens, such as `<C'HOARZH>`, `<PASAAT>`, `<SONEREZH>`...
+
+### Using with 🤗 HuggingFace
+
+While this dataset isn't available on HuggingFace yet, it follows HuggingFace's audio Dataset structure. After cloning this repository locally, you can easily import the data with :
+
+```python
+from datasets import load_dataset
+
+roadennou = load_dataset("audiofolder", data_dir="roadennou/audio_text")
+
+# Rename column names to match MCV's
+roadennou = roadennou_ouzhpenn.rename_column("transcript", "sentence")
+```
 
 ### Data directories
 
